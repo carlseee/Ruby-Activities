@@ -8,7 +8,7 @@ class Car
     def start
       puts "I'm #{@name} and here is a #{@color} #{@type} car!"
     end
-  end
+end
   
-  toyota = Car.new("mikey", "yellow", "toyota suv")
-  toyota.start
+toyota = Car.new("mikey", "yellow", "toyota suv")
+toyota.start

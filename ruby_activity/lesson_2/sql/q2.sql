@@ -1,6 +1,6 @@
 /* DISPLAY COUNT */
 
-SELECT COUNT(id) FROM students;
+SELECT COUNT(*) FROM students;
 
 /* DISPLAY MANILAs */ 
 
